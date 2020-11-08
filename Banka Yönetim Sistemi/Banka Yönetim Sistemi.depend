@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1604860616 source:c:\users\asibr\desktop\c\egzersizler\banka yönetim sistemi\banka yönetim sistemi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	<strings.h>
+	<time.h>
+
